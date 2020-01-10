@@ -1454,10 +1454,10 @@ input[type='checkbox'] {
 	margin-left: 0.625rem;
 }
 
-.footer .footer-col.last .list-unstyled .fas.fa-globe {
+/* .footer .footer-col.last .list-unstyled .fas.fa-globe {
 	margin-left: 1rem;
 	margin-right: 0.625rem;
-}
+} */
 
 
 /*************************/
@@ -1703,8 +1703,8 @@ a:hover.back-to-top {
 
 	/* Extra Pages */
 	.ex-header {
-		padding-top: 11rem;
-		padding-bottom: 9rem;
+		padding-top: 6rem;
+		padding-bottom: 4rem;
 	}
 
 	.ex-basic-2 .text-container.dark {
@@ -2156,3 +2156,9 @@ a:hover.back-to-top {
 	/* end of extra pages */
 }
 /* end of min-width width 1200px */
+
+
+/* GWeb */
+.tcapital {
+	text-transform: uppercase;
+}
