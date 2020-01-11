@@ -1,0 +1,78 @@
+{
+    "links": {
+        "baseAbsolute": "/",
+        "extension": "html"
+    },
+    "lang": "en",
+    "title": "GWeb - Webview Mobile App Manager",
+    "title2": "Webview Mobile App Manager",
+    "title_term_privacy_policy ": "GWeb - Privacy Policy",
+    "title_term_conditions": "GWeb - Terms & Conditions",
+    "slogan": "Webview Mobile App Manager",
+    "features": "Features",
+    "home": "Home",
+    "pricing": "Pricing",
+    "login": "Login",
+    "description1": "Use GWeb to send instant notifications to your mobile app users.",
+    "request_demo": "Request Demo",
+    "pricing_opts": "Pricing Options Table",
+    "monthly": "montly",
+    "annually": "annually",
+    "try_free": "Try Free",
+    "plan": {
+        "basic": "Basic",
+        "advanced": "Advanced",
+        "premium": "Premium"
+    },
+    "feature": {
+        "instant_ntf": "Send Instant Notifications",
+        "url_with_ntf": "Send URL with Notification",
+        "ntf_history": "Notification History",
+        "ntf_stats": "Notification Statics",
+        "install_stats": "Installation Statics",
+        "designer": "Menu & Footer Designer",
+        "multilang": "Multi Language Support",
+        "all_basic_features": "All Basic Plan Features",
+        "all_advanced_features": "All Advanced Features",
+        "custom_ntf_channels": "Custom Notification Channels",
+        "scheduled_ntf": "Scheduled Notifications",
+        "show_sub_title_navbar": "Show Subtitle in Navbar",
+        "splash_design": "Custom Splash Design",
+        "apk_hosting": "APK Hosting",
+        "url_change": "Change Main URL",
+        "custom_mobile_desing": "Custom Mobile Development",
+        "collected_data_reports": "Collected Data Reports",
+        "contact_form": "Contact Form"
+    },
+    "main": {
+        "slogan": "Reach out to your users easily and focus on growing your business.",
+        "send_ntf": "Send Notification",
+        "send_ntf_desc": "It's very easy to send instant and scheduled notifications with predefined channels.",
+        "customize": "Customize",
+        "customize_desc": "Change your mobile app's main page with a single click. Create and update mobile navigation menu list whenever you want.",
+        "analytics": "Analytcis Tools",
+        "analytics_desc": "See how many of your users click or dismissed it. Follow your app's installation and usage details via dashboards."
+    },
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms & Conditions",
+    "contact": "Contact",
+    "about": "About",
+    "about_intodev": "About IntoDevApps",
+    "about_desc": "We're passionate about designing and developing best apps in the market",
+    "important_links": "Important Links",
+    "business_partner": "Our business partner",
+    "testimonials": {
+        "first": "GWeb ile çok hızlı bir şekilde kullanıcılarıma erişebiliyor ve son dakika kuponlarımı paylaşabiliyorum. Bu sayede müşterilerimi hiç kaybetmiyorum",
+        "second": "GWeb ile web sitemizi mobil uygulama olarak yayınladığımızdan beri kullanıcılarımızdan çok güzel geri bildirimler aldık. Herkese tavsiye ediyoruz.",
+        "third": "Mobil uygulama gelitiştirme zahmeti yerin GWeb ile istediğimiz işi çok daha uygun fiyata ve çok daha pratik bir şekilde halletmiş olduk."
+    },
+    "price": {
+        "currency": "$",
+        "basic_monthly": "4.90",
+        "basic_annualy": "49.90",
+        "advanced_monthly": "9.90",
+        "advanced_annualy": "99.90",
+        "premium_monthly": "14.90",
+        "premium_annualy": "149.90"
+    }
+}

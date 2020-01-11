@@ -1,0 +1,78 @@
+{
+    "links": {
+        "baseAbsolute": "/tr/",
+        "extension": "html"
+    },
+    "lang": "tr",
+    "title": "GWEB - Webview Mobil Uygulama Yöneticisi",
+    "title2": "Webview Mobile App Manager",
+    "title_term_privacy_policy ": "GWeb - Gizlilik Sözleşmesi",
+    "title_term_conditions": "GWeb - Kullanım Şartları",
+    "slogan": "Webview Mobil Uygulama Yöneticisi",
+    "features": "Özellikler",
+    "home": "Anasayfa",
+    "pricing": "Fiyatlar",
+    "login": "Giriş",
+    "description1": "Mobil uygulama kullanıcılarına anlık ve zamanlanmış bildirimler göndermek için GWeb kullanın.",
+    "request_demo": "Ücresiz Demo",
+    "pricing_opts": "Fiyatlandırma Tablosu",
+    "monthly": "aylık",
+    "annually": "yıllık",
+    "try_free": "Ücretsiz Dene",
+    "plan": {
+        "basic": "Temel",
+        "advanced": "Gelişmiş",
+        "premium": "Premium"
+    },
+    "feature": {
+        "instant_ntf": "Anlık Bildirim Gönder",
+        "url_with_ntf": "URL Açan Bildirim Gönder",
+        "ntf_history": "Bildirim Geçmişi",
+        "ntf_stats": "Bildirim İstatistikleri",
+        "install_stats": "Kurulum İstatistikleri",
+        "designer": "Menü & Altlık Designer",
+        "multilang": "Çoklu Dil Desteği",
+        "all_basic_features": "Tüm Temel Plan Özellikler",
+        "all_advanced_features": "Tüm Gelişmiş Plan Özellikler",
+        "custom_ntf_channels": "Özelleşmiş Bildirim Kanalları",
+        "scheduled_ntf": "Zamanlı Bildirimler",
+        "show_sub_title_navbar": "Navbarda Sayfa Başlığı",
+        "splash_design": "Splash Ekranı Tasarımı",
+        "apk_hosting": "APK Hosting",
+        "url_change": "Ana URL Adresi Güncelleme",
+        "custom_mobile_desing": "Özel Mobil İstek Geliştirme",
+        "collected_data_reports": "Kullanım Veri Raporları",
+        "contact_form": "İletişim Formu"
+    },
+    "main": {
+        "slogan": "Kullanıcılarınıza kolayca ulaşın ve işinizi büyütmeye odaklanın.",
+        "send_ntf": "Bildirimler Gönderin",
+        "send_ntf_desc": "Önceden tanımladığınız bildirim kanallarına istediğinizde ya da zaman ayarlı olarak bildirimler gönderin.",
+        "customize": "Özelleştirin",
+        "customize_desc": "Anasayfa adresini tek tıkla değiştirin. Tema ve menüyü listesini istediğiniz zaman güncelleyin.",
+        "analytics": "Analitik Araçlar",
+        "analytics_desc": "Kullanıcılarınız ne kadarının bildirimleri gördüğünü, tıkladığını ve görmezden geldiğini bilin. Kurulum ve kullanım detaylarını inceleyin."
+    },
+    "privacy_policy": "Gizlilik Sözleşmesi",
+    "terms_conditions": "Kullanım Şartları",
+    "contact": "İletişim",
+    "about": "Hakkımızda",
+    "about_intodev": "IntoDevApps Hakkında",
+    "about_desc": "Bizler marketteki en iyi uygulamaları geliştirmeye odaklanmış tutkulu bir ekibiz.",
+    "important_links": "Önemli Linkler",
+    "business_partner": "İş ortaklarımız",
+    "testimonials": {
+        "first": "GWeb ile çok hızlı bir şekilde kullanıcılarıma erişebiliyor ve son dakika kuponlarımı paylaşabiliyorum. Bu sayede müşterilerimi hiç kaybetmiyorum",
+        "second": "GWeb ile web sitemizi mobil uygulama olarak yayınladığımızdan beri kullanıcılarımızdan çok güzel geri bildirimler aldık. Herkese tavsiye ediyoruz.",
+        "third": "Mobil uygulama gelitiştirme zahmeti yerin GWeb ile istediğimiz işi çok daha uygun fiyata ve çok daha pratik bir şekilde halletmiş olduk."
+    },
+    "price": {
+        "currency": "TL",
+        "basic_monthly": "24.90",
+        "basic_annualy": "249.90",
+        "advanced_monthly": "49.90",
+        "advanced_annualy": "499.90",
+        "premium_monthly": "79.90",
+        "premium_annualy": "790.90"
+    }
+}
