@@ -21,28 +21,28 @@
     "try_free": "Ücretsiz Dene",
     "plan": {
         "basic": "Temel",
-        "advanced": "Gelişmiş",
-        "premium": "Premium"
+        "advanced": "Premium",
+        "premium": "Özel"
     },
     "feature": {
         "instant_ntf": "Anlık Bildirim Gönder",
         "url_with_ntf": "URL Açan Bildirim Gönder",
         "ntf_history": "Bildirim Geçmişi",
         "ntf_stats": "Bildirim İstatistikleri",
-        "install_stats": "Kurulum İstatistikleri",
+        "install_stats": "Kurulum İstatistikleri *",
         "designer": "Menü & Altlık Designer",
         "multilang": "Çoklu Dil Desteği",
         "all_basic_features": "Tüm Temel Plan Özellikler",
         "all_advanced_features": "Tüm Gelişmiş Plan Özellikler",
         "custom_ntf_channels": "Özelleşmiş Bildirim Kanalları",
-        "scheduled_ntf": "Zamanlı Bildirimler",
+        "scheduled_ntf": "Zamanlı Bildirimler *",
         "show_sub_title_navbar": "Navbarda Sayfa Başlığı",
         "splash_design": "Splash Ekranı Tasarımı",
         "apk_hosting": "APK Hosting",
-        "url_change": "Ana URL Adresi Güncelleme",
+        "url_change": "Anasayfa Adresi Güncelleme",
         "custom_mobile_desing": "Özel Mobil İstek Geliştirme",
-        "collected_data_reports": "Kullanım Veri Raporları",
-        "contact_form": "İletişim Formu"
+        "collected_data_reports": "Kullanım Veri Raporları *",
+        "contact_form": "İletişim Formu *"
     },
     "main": {
         "slogan": "Kullanıcılarınıza kolayca ulaşın ve işinizi büyütmeye odaklanın.",
@@ -74,5 +74,6 @@
         "advanced_annualy": "499.90",
         "premium_monthly": "79.90",
         "premium_annualy": "790.90"
-    }
+    },
+    "under_development" : "Bu özellik şu anda geliştirme aşamasında. Çok yakında geliyor..."
 }

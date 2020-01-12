@@ -21,28 +21,28 @@
     "try_free": "Try Free",
     "plan": {
         "basic": "Basic",
-        "advanced": "Advanced",
-        "premium": "Premium"
+        "advanced": "Premium",
+        "premium": "Custom"
     },
     "feature": {
         "instant_ntf": "Send Instant Notifications",
         "url_with_ntf": "Send URL with Notification",
         "ntf_history": "Notification History",
         "ntf_stats": "Notification Statics",
-        "install_stats": "Installation Statics",
+        "install_stats": "Installation Statics *",
         "designer": "Menu & Footer Designer",
         "multilang": "Multi Language Support",
         "all_basic_features": "All Basic Plan Features",
         "all_advanced_features": "All Advanced Features",
         "custom_ntf_channels": "Custom Notification Channels",
-        "scheduled_ntf": "Scheduled Notifications",
+        "scheduled_ntf": "Scheduled Notifications *",
         "show_sub_title_navbar": "Show Subtitle in Navbar",
         "splash_design": "Custom Splash Design",
         "apk_hosting": "APK Hosting",
-        "url_change": "Change Main URL",
+        "url_change": "Change Startup URL",
         "custom_mobile_desing": "Custom Mobile Development",
-        "collected_data_reports": "Collected Data Reports",
-        "contact_form": "Contact Form"
+        "collected_data_reports": "Collected Data Reports *",
+        "contact_form": "Contact Form *"
     },
     "main": {
         "slogan": "Reach out to your users easily and focus on growing your business.",
@@ -74,5 +74,6 @@
         "advanced_annualy": "99.90",
         "premium_monthly": "14.90",
         "premium_annualy": "149.90"
-    }
+    },
+    "under_development" : "This feature is currently under development. Coming soon..."
 }
