@@ -2,7 +2,7 @@
 # ÇOKLU DİL DESTEĞİ OLAN STATİK HTML SAYFA HAZIRLAMA
 
 
-## Hazırlamanda önce 
+## Hazırlamadan önce 
 
 * static-i18n ve serve npm araçları kurulmuş olmalıdır.
   * ```npm i -g static-i18n```
@@ -19,7 +19,7 @@
 
 ## Çeviriler içeren statik sayfaların hazırlanması
 
-* landing/original dizinine gelip aşağıdaki komut çalıştırılırsa public klasörüne çevirisi yapılan **en** ve **tr** .html dosyaları oluşturulur
+* komut satırından /original dizinine gelip aşağıdaki komut çalıştırılırsa public klasörüne çevirisi yapılan **en** ve **tr** .html dosyaları oluşturulur
 
   * ```static-i18n -l en -i en -i tr -o ../ . ```
 
@@ -28,6 +28,6 @@
 
 ## Hazırlanan sayfaları göre
 
-* ana dizine gidip aşağıdaki komutu çalıştırarak http://localhost:5000 adresinde uygulamayı görebilirsin.
+* komut satırından ana dizine gidip aşağıdaki komutu çalıştırarak http://localhost:5000 adresinde uygulamayı görebilirsin.
 
-  * ```serve public/ ```
+  * ```serve . ```
